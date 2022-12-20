@@ -23,10 +23,10 @@ I'm a passionate Full Stack Developer from India.
 
 # 🚀 Languages and Tools:
 
-javascript     
-Java 
-Nosql
-html5 
+javascript .    
+Java .
+Nosql.
+html5 .
 css3 
 bootstrap
 Node js  

@@ -7,7 +7,8 @@ SunilMatkar/README.md
 
 I'm a passionate Full Stack Developer from India.
 
-#🙋‍♂️ About Me
+#  🙋‍♂️ About Me
+
 🔭 I’m currently working on Web-Developer Intern.
 
 🌱 I’m currently learning Web-Development & Data Science.
@@ -20,7 +21,8 @@ I'm a passionate Full Stack Developer from India.
 
 ⚡ Fun fact I love programing and Create new things.
 
-🚀 Languages and Tools:
+# 🚀 Languages and Tools:
+
 javascript Java Nosql html5 css3 bootstrap Node js  React js  git github git git   mongodb  postman
 
 

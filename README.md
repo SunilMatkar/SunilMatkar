@@ -9,9 +9,9 @@ I'm a passionate Full Stack Developer from India.
 
 #  🙋‍♂️ About Me
 
-🔭 I’m currently working on Web-Developer Intern.
+🔭 I’m currently working College Student.
 
-🌱 I’m currently learning Web-Development & Data Science.
+🌱 I’m currently learning Web-Development & Data Science and Java.
 
 👯 I care about building projects that help people and make a difference in the real world.
 

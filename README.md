@@ -2,8 +2,7 @@
 ![image](https://user-images.githubusercontent.com/98326772/208716675-fd59aa06-a5ce-43cb-a13c-c901460a44d8.png)
 
 
-# Hi ![image](https://user-images.githubusercontent.com/98326772/208721426-7332a5d1-6069-44f2-84d8-1cfeae42f730.png)
-, I'm Sunil Matkar
+# Hi , I'm Sunil Matkar
 
 
 I'm a passionate Full Stack Developer from India.

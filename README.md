@@ -24,8 +24,7 @@ I'm a passionate Full Stack Developer from India.
 # 🚀 Languages and Tools:
 
 
-
-![image](https://user-images.githubusercontent.com/98326772/208718081-57087a42-6c7c-4d59-a30e-868175cb6d05.png)
+![image](https://user-images.githubusercontent.com/98326772/208718252-aadefb2c-763f-4c31-a724-253960838293.png)
 
 javascript Java Nosql html5 css3 bootstrap Node js  React js  git github git git   mongodb  postman
 
